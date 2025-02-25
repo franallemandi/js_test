@@ -4,7 +4,7 @@ let var_number;
 //asignacion
 var_number=12.5;
 
-console.log(var_prueba);
+console.log(var_number);
 
 //inicializar (declarar+asignar)
 let var_string='Francou';
