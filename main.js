@@ -1,20 +1,20 @@
 //prueba
 //declaracion
-let var_prueba;
+let var_number;
 //asignacion
-var_prueba='tito';
+var_number=12.5;
 
 console.log(var_prueba);
 
 //inicializar (declarar+asignar)
-let edad=37;
+let var_string='Francou';
 
-console.log(edad);
+console.log(var_string);
 
 //const
 
-const nacimiento = 1987;
-console.log(nacimiento);
+const var_boolean = false;
+console.log(var_boolean);
 
 const titulo=document.getElementById("titulo");
 titulo.textContent = "texto modificadinho";
